@@ -8,6 +8,7 @@ A full description is available at the site where the data was obtained:http://a
 
   
 The documents include:
+
 A. run_analysis.R --> the code performing analyses below:
     1. Merges the training and the test sets to create one data set.
     2. Extracts only the measurements on the mean and standard deviation for each measurement. 
